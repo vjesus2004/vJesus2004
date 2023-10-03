@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there!👋 
+Im Jesus, im IT student, im really intrested in BackEnd coding and i know how to code in
+*Back-End
+  *MySQl
+  *PHP
+  *C#
+*Front-End
+  *HTML
+  *CSS
 
-<!--
-**vJesus2004/vJesus2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  And im learning
+  *JS
+  *SQLServer
+  ---------------------------------------------------------------
+  ### Holaa!👋 
+Me llamo jesus, soy estudiante de informatica, me interesa mucho el BackEnd y actualmente se programar en
+*Back-End
+  *MySQl
+  *PHP
+  *C#
+*Front-End
+  *HTML
+  *CSS
+  *JS
+   Y estoy aprendiendo
+  *JS
+  *SQLServer
