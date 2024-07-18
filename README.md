@@ -1,27 +1,30 @@
 ### Hi there!👋 
-Im Jesus, im IT student, im really intrested in BackEnd coding and i know how to code in
+My name is Jesus. I'm an IT student, very interested in backend development, but always learning new technologies and expanding into other fields such as AI, frontend development, or network design. Currently, I believe I have the knowledge to develop functional applications in:
 *Back-End
   *MySQl
   *PHP
   *C#
+  *SQLServer
 *Front-End
   *HTML
   *CSS
-
-  And im learning
   *JS
-  *SQLServer
+
   ---------------------------------------------------------------
   ### Holaa!👋 
-Me llamo jesus, soy estudiante de informatica, me interesa mucho el BackEnd y actualmente se programar en
+Me llamo jesus, soy estudiante de informatica, muy interesado en el BackEnd pero siempre aprendiendo nuevas tecnologias y expandiendome a otros campos como la IA, Front End o   diseño de Redes
+Actualmente considero que tengo conocimiento como para desarrollar aplicaciones funcionales en:
 *Back-End
   *MySQl
   *PHP
   *C#
+  *SQLServer
 *Front-End
   *HTML
   *CSS
   *JS
-   Y estoy aprendiendo
-  *JS
-  *SQLServer
+
+Actually im learning Laravel and ReactJS.
+-----------------------------------------
+Actualmente aprendiendo Laraver PHP y ReactJS.
+
