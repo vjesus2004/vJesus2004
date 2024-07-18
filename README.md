@@ -1,5 +1,5 @@
 ### Hi there!👋 
-My name is Jesus. I'm an IT student, very interested in backend development, but always learning new technologies and expanding into other fields such as AI, frontend development, or network design. Currently, I believe I have the knowledge to develop functional applications in:
+My name is Jesus. I'm an IT student and currently a freelance Full-Stack Web Developer. While I am more interested in backend development, I am always learning new technologies and expanding into other fields such as AI, frontend development, and network design. I believe I have the knowledge to develop functional applications in:
 *Back-End
   *MySQl
   *PHP
@@ -12,7 +12,7 @@ My name is Jesus. I'm an IT student, very interested in backend development, but
 
   ---------------------------------------------------------------
   ### Holaa!👋 
-Me llamo jesus, soy estudiante de informatica, muy interesado en el BackEnd pero siempre aprendiendo nuevas tecnologias y expandiendome a otros campos como la IA, Front End o   diseño de Redes
+Me llamo jesus, soy estudiante de informatica, Programador Web Full-Stack freelance actualmente, si bien mas interesado en el BackEnd pero siempre aprendiendo nuevas tecnologias y expandiendome a otros campos como la IA, Front End o   diseño de Redes
 Actualmente considero que tengo conocimiento como para desarrollar aplicaciones funcionales en:
 *Back-End
   *MySQl
