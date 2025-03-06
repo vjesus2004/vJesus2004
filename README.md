@@ -1,30 +1,53 @@
-### Hi there!👋 
-My name is Jesus. I'm an IT student and currently a freelance Full-Stack Web Developer. While I am more interested in backend development, I am always learning new technologies and expanding into other fields such as AI, frontend development, and network design. I believe I have the knowledge to develop functional applications in:
-*Back-End
-  *MySQl
-  *PHP
-  *C#
-  *SQLServer
-*Front-End
-  *HTML
-  *CSS
-  *JS
+Hi there!👋
+My name is Jesus. I'm a Junior Full-Stack Developer and a certified Networks and Software Technician. Currently, I work as a freelance developer, and while I am more interested in backend development, I am always learning new technologies and expanding into other fields such as AI, frontend development, and network design. I have strengthened my skills in modern technologies like ReactJS and Laravel.
 
-  ---------------------------------------------------------------
-  ### Holaa!👋 
-Me llamo jesus, soy estudiante de informatica, Programador Web Full-Stack freelance actualmente, si bien mas interesado en el BackEnd pero siempre aprendiendo nuevas tecnologias y expandiendome a otros campos como la IA, Front End o   diseño de Redes
-Actualmente considero que tengo conocimiento como para desarrollar aplicaciones funcionales en:
-*Back-End
-  *MySQl
-  *PHP
-  *C#
-  *SQLServer
-*Front-End
-  *HTML
-  *CSS
-  *JS
+I believe I have the knowledge to develop functional applications in:
 
-Actually im learning Laravel and ReactJS.
------------------------------------------
-Actualmente aprendiendo Laraver PHP y ReactJS.
+Back-End
 
+MySQL
+
+PHP
+
+C#
+
+SQL Server
+
+Laravel (currently learning)
+
+Front-End
+
+HTML
+
+CSS
+
+JavaScript
+
+ReactJS (currently learning)
+
+¡Hola!👋
+Me llamo Jesús, soy Programador Junior Full-Stack y Técnico en Redes y Software. Actualmente trabajo como desarrollador freelance, y aunque estoy más interesado en el desarrollo Back-End, siempre estoy aprendiendo nuevas tecnologías y expandiéndome a otros campos como la IA, el desarrollo Front-End y el diseño de redes. He fortalecido mis habilidades en tecnologías modernas como ReactJS y Laravel.
+
+Actualmente considero que tengo el conocimiento para desarrollar aplicaciones funcionales en:
+
+Back-End
+
+MySQL
+
+PHP
+
+C#
+
+SQL Server
+
+Laravel (actualmente aprendiendo)
+
+Front-End
+
+HTML
+
+CSS
+
+JavaScript
+
+ReactJS (actualmente aprendiendo)
